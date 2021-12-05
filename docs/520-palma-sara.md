@@ -2,10 +2,9 @@
 layout: default
 title: Palma sara
 parent: Estudios de caso
-nav_order: 1
+nav_order: 2
 description: "Decreto  PFNM"
 permalink: /estudios-de-caso/palma-sara/
-has_children: true
 ---
 
 Esta guía trata específicamente de los Productos Forestales No Maderables-PFNM que
