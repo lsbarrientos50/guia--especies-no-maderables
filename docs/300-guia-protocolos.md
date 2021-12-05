@@ -1,9 +1,10 @@
 ---
 layout: default
 title: Guía protocolos
-nav_order: 4
+nav_order: 3
 description: "Decreto  PFNM"
-permalink: /normatividad/
+permalink: /guia-protocolos/
+has_children: true
 ---
 
 El objetivo de esta guía es proporcionar una orientación práctica para la elaboración de estudios
