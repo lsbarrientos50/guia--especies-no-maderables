@@ -4,6 +4,7 @@ title: Guía solicitudes
 nav_order: 4
 description: "Decreto  PFNM"
 permalink: /guia-solicitudes/
+has_children: true
 ---
 
 Esta guía trata específicamente de los Productos Forestales No Maderables-PFNM que
