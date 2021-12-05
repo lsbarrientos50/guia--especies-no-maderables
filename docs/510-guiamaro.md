@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Estudios de caso
+title: Guiamaro
 parent: Estudios de caso
 nav_order: 1
 description: "Decreto  PFNM"
