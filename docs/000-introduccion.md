@@ -7,6 +7,9 @@ permalink: /
 
 ---
 
+# Productos Forestales no Maderables (PFNM) en Colombia
+{: .fs-9 .text-green-300 }
+
 Los Productos Forestales no Maderables (PFNM) en Colombia requieren de un esquema de
 gestión y regulación que permita garantizar su conservación en el tiempo, y partiendo del hecho
 que el principal regulador es el Estado, y que de conformidad con lo establecido en la constitución
