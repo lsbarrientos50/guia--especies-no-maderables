@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Normativa
-nav_order: 2
+nav_order: 3
 description: "Decreto  PFNM"
 permalink: /normatividad/
 ---
