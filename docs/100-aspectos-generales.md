@@ -7,6 +7,10 @@ permalink: /aspectos-generales/
 has_children: true
 ---
 
+# Definiciones y aspectos generales
+{: .fs-8 .text-green-200}
+
+
 Los PFNM hoy requieren una nueva mirada que supere aquellas ya identificadas frente a las
 bondades que presta de lograr la conservación y la generación de un bajo impacto en el
 aprovechamiento de los bosques naturales, es primordial empezar a mirar estos productos bajo
