@@ -2,6 +2,7 @@
 layout: default
 title: Contexto
 description: "Propuesta para el proyecto Productos Forestales no Maderables en Colombia."
+nav_exclude: true
 permalink: /
 
 ---
