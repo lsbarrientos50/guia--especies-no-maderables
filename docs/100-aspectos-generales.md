@@ -1,9 +1,10 @@
 ---
 layout: default
 title: Aspectos generales
-nav_order: 2
+nav_order: 1
 description: "Decreto  PFNM"
 permalink: /aspectos-generales/
+has_children: true
 ---
 
 Los PFNM hoy requieren una nueva mirada que supere aquellas ya identificadas frente a las
