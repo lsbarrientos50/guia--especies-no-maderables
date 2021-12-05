@@ -1,9 +1,10 @@
 ---
 layout: default
 title: Normativa
-nav_order: 3
+nav_order: 2
 description: "Decreto  PFNM"
 permalink: /normatividad/
+has_children: true
 ---
 
 “Es deber del Estado y las personas
