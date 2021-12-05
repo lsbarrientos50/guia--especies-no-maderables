@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DEFINICIONES Y ASPECTOS GENERALES
+title: Aspectos generales
 nav_order: 2
 description: "Decreto  PFNM"
 permalink: /normatividad/
