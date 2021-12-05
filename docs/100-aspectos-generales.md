@@ -3,7 +3,7 @@ layout: default
 title: Aspectos generales
 nav_order: 2
 description: "Decreto  PFNM"
-permalink: /normatividad/
+permalink: /aspectos-generales/
 ---
 
 Los PFNM hoy requieren una nueva mirada que supere aquellas ya identificadas frente a las
