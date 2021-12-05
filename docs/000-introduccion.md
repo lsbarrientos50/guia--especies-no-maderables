@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Contexto
-nav_order: 1
 description: "Propuesta para el proyecto Productos Forestales no Maderables en Colombia."
 permalink: /
+
 ---
 
 Los Productos Forestales no Maderables (PFNM) en Colombia requieren de un esquema de
