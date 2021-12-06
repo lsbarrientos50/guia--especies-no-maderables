@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Origen de las Especies
+title: Origen de las especies
 parent: Aspectos generales
 nav_order: 1
 description: "Introducción origen de las especies"
