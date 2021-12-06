@@ -5,7 +5,7 @@ parent: Estudios de caso
 nav_order: 1
 description: "Decreto  PFNM"
 permalink: /estudios-de-caso/guiamaro/
-has_children: true
+has_children: false
 ---
 
 Esta guía trata específicamente de los Productos Forestales No Maderables-PFNM que
