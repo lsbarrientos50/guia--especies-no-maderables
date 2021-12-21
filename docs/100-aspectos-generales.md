@@ -8,7 +8,7 @@ has_children: true
 ---
 
 # Definiciones y aspectos generales
-{: .fs-8 .text-blue-400}
+{: .fs-8 .text-blue-200}
 
 
 Los PFNM hoy requieren una nueva mirada que supere aquellas ya identificadas frente a las
@@ -20,7 +20,7 @@ parte importante del PIB de las economías en los distintos países.
 
 
 ## Título 1
-
+{: .fs-8 .text-blue-200}
 El término Productos Forestales No Maderables (PFNM) fue introducido en la literatura en 1989
 por Beer y McDermott, y en la literatura en inglés figura como Non Timber Forest Products
 (NTFP). Cuando fue descrito inicialmente por estos autores, lo enmarcaron como la inclusión de
