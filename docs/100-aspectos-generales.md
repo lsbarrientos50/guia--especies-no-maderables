@@ -8,7 +8,7 @@ has_children: true
 ---
 
 # Definiciones y aspectos generales
-{: .fs-8 .text-green-200}
+{: .fs-8 .text-blue-400}
 
 
 Los PFNM hoy requieren una nueva mirada que supere aquellas ya identificadas frente a las
