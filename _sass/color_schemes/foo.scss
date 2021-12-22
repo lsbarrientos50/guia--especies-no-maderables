@@ -2,18 +2,18 @@
 // Colors
 //
 
-$body-background-color: $white !default;
+$body-background-color: $white;
 $sidebar-color: #133746; //azul
+
+$body-text-color: $grey-dk-100 ;
+$body-heading-color: $grey-lt-000;
+$search-result-preview-color: $grey-dk-250;
+$nav-child-link-color: $grey-lt-100;
 
 $search-background-color: #133746 !default;
 $code-background-color: $grey-dk-250; // antes $white !default;
 $table-background-color: $grey-dk-250; // del tema oscuro
 $feedback-color: darken($sidebar-color, 3%) !default;
-
-$body-text-color: $grey-dk-100 !default;
-$body-heading-color: $grey-dk-300 !default;
-$search-result-preview-color: $grey-dk-250 !default;
-$nav-child-link-color: $grey-lt-100 !default;
 
 $link-color: #ebad28; //amarillo
 $btn-primary-color: $blue-300;
