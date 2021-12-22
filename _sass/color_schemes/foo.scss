@@ -6,14 +6,14 @@ $body-background-color: $white;
 $sidebar-color: #133746; //azul
 
 $body-text-color: $grey-dk-100 ;
-$body-heading-color: $grey-lt-000;
+$body-heading-color: $grey-lt-000; // título Página
 $search-result-preview-color: $grey-dk-250;
 $nav-child-link-color: $grey-lt-100;
 
-$search-background-color: #133746 !default;
+$search-background-color: #133746 ;
 $code-background-color: $grey-dk-250; // antes $white !default;
 $table-background-color: $grey-dk-250; // del tema oscuro
-$feedback-color: darken($sidebar-color, 3%) !default;
+$feedback-color: darken($sidebar-color, 3%);
 
 $link-color: #ebad28; //amarillo
 $btn-primary-color: $blue-300;
