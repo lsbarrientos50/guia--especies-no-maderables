@@ -6,8 +6,8 @@ $body-background-color: $white !default;
 $sidebar-color: #133746; //azul
 
 $search-background-color: #133746 !default;
+$code-background-color: $grey-dk-250; // antes $white !default;
 $table-background-color: #236682 !default;
-$code-background-color: $white !default;
 $feedback-color: darken($sidebar-color, 3%) !default;
 
 $body-text-color: $grey-dk-100 !default;
