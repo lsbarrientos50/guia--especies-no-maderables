@@ -64,9 +64,9 @@ conservación, la agronomía, la antropología, ciencias sociales en general e i
 gastronómica y de la cosmetología; estos últimos han contribuido en gran medida a popularizar
 y dar a conocer varios de estos productos.
 
-## Título 2
+## Definición de productos forestales no maderables
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+Durante cientos de miles de años los productos forestales no madereros (PFNM) han sido cosechados por las poblaciones humanas, empleando distintas partes de la planta como son semillas, flores, cortezas, yemas o cogollos, frutos, hojas, raíces, así como distintos tipos de exudados dentro de los que se encuentran látex, resinas, entre otros. Todas estas partes han sido empleadas, bien sea con fines alimenticios, medicinales, ornamentales, culturales, y para construcción o elaboración de distintos utensilios personales o como elementos de caza y pesca. Actualmente ya es reconocida en buena parte del mundo la importancia que representan los productos forestales no madereros (PFNM) en los medios de vida rurales y especialmente en los países más pobres.
 
 ## Título 3
 
