@@ -19,7 +19,7 @@ parte importante del PIB de las economías en los distintos países.
 {: .fs-3 .fw-300 }
 
 
-## Título 1
+## Introducción
 {: .fs-8 .text-blue-200}
 El término Productos Forestales No Maderables (PFNM) fue introducido en la literatura en 1989
 por Beer y McDermott, y en la literatura en inglés figura como Non Timber Forest Products
@@ -65,10 +65,12 @@ gastronómica y de la cosmetología; estos últimos han contribuido en gran medi
 y dar a conocer varios de estos productos.
 
 ## Definición de productos forestales no maderables
+{: .fs-8 .text-blue-200}
 
 Durante cientos de miles de años los productos forestales no madereros (PFNM) han sido cosechados por las poblaciones humanas, empleando distintas partes de la planta como son semillas, flores, cortezas, yemas o cogollos, frutos, hojas, raíces, así como distintos tipos de exudados dentro de los que se encuentran látex, resinas, entre otros. Todas estas partes han sido empleadas, bien sea con fines alimenticios, medicinales, ornamentales, culturales, y para construcción o elaboración de distintos utensilios personales o como elementos de caza y pesca. Actualmente ya es reconocida en buena parte del mundo la importancia que representan los productos forestales no madereros (PFNM) en los medios de vida rurales y especialmente en los países más pobres.
 
 ## Título 3
+{: .fs-8 .text-blue-200}
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
 
