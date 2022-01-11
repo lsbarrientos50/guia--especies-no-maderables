@@ -59,4 +59,3 @@ Productos Forestales No Maderables.
 
 ![Aliados](https://raw.githubusercontent.com/lsbarrientos50/guia--especies-no-maderables/main/images/aliados.png)
 
-![Figura1.pdf](https://github.com/lsbarrientos50/guia-especies-no-maderables/files/7847938/Figura1.pdf)
