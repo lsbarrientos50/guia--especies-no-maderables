@@ -35,6 +35,14 @@ Estas especies presentan poblaciones que tienen un riesgo de desaparecer, esto d
 
 entiéndase por veda como la restricción y regulación del uso o aprovechamiento de determinadas especies, grupos taxonómicos o productos de la flora en el territorio a nivel regional o nacional. Establecidas en la Resolución 0316 de 1974 (INDERENA), Resolución 0213 de 1977 (INDERENA), Resolución 0316 de 1974 (INDERENA), Resolución 0213 de 1977 (INDERENA), Resolución 0801 de 1977 (INDERENA), Resolución 0463 de 1982 (INDERENA), Ley 61 de 1985, Resolución 1408 de 1975 (INDERENA) Resolución 1132 de 1975 (INDERENA), Resoluciones 1602 de 1995 y 020 de 1996 (MADS). Si la especie se encuentra en veda, no necesariamente se niega el permiso de aprovechamiento, pero si se debe revisar con mayor rigor que el aprovechamiento no cause afectaciones a las poblaciones de las especies.
 
+### Tabla 
+{: .fs-4 .text-blue-200}
+Hábitos de crecimiento con algunos ejemplos
+|Grupo  |Hábito de crecimiento   |Ejemplo   |Nombre común  |
+|:-------------|:---------------------|:---------|:---------|
+|Árboles |Árboles Palmas arbóreas mono estipitadas ó plamas solitarias Palmas árboreas cespitosas |**Ficus insipida**, **Iriartea deltoidea**, **Euterpe oleracea**  |Higuerón , Palma bombona, Naidí |
+
+
 # Especies a las que no hace referencia
 {: .fs-8 .text-blue-200}
 
@@ -64,6 +72,10 @@ Estas especies no hacen parte de esta guía y la solicitud de aprovechamiento se
 ## Individuos en Plantaciones: 
 {: .fs-6 .text-blue-200}
 Las plantaciones no hacen parte de la presente guía, y se regulará por el Decreto 1532 de 2019 ("Por medio del cual se modifica la Sección 1 del Capítulo 1 del Título 2 de la Parte 2 del Libro 2 y se sustituye la Sección 12 del Capítulo 1 del Título 2 de la Parte 2 del Libro 2 del Decreto Único Reglamentario del Sector Ambiente y Desarrollo Sostenible 1076 de 2015, y para el caso de los cultivos forestales con fines comerciales, sistemas agroforestales con fines comerciales y plantaciones protectoras productores establecidas con el CIF de reforestación se regularan por la ley 139 de 1994.
+
+
+
+
 
 # Referencias
 {: .fs-8 .text-blue-200}
