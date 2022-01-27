@@ -38,9 +38,10 @@ entiéndase por veda como la restricción y regulación del uso o aprovechamient
 ### Tabla 
 {: .fs-4 .text-blue-200}
 Hábitos de crecimiento con algunos ejemplos
-|Grupo  |Hábito de crecimiento   |Ejemplo   |Nombre común  |
+
+| Grupo  | Hábito de crecimiento   | Ejemplo   | Nombre común  |
 |:-------------|:---------------------|:---------|:---------|
-|Árboles |Árboles Palmas arbóreas mono estipitadas ó plamas solitarias Palmas árboreas cespitosas |**Ficus insipida**, **Iriartea deltoidea**, **Euterpe oleracea**  |Higuerón , Palma bombona, Naidí |
+| Árboles | Árboles Palmas arbóreas mono estipitadas ó plamas solitarias Palmas árboreas cespitosas | **Ficus insipida**, **Iriartea deltoidea**, **Euterpe oleracea**  | Higuerón , Palma bombona, Naidí |
 
 
 # Especies a las que no hace referencia
@@ -80,4 +81,5 @@ Las plantaciones no hacen parte de la presente guía, y se regulará por el Decr
 # Referencias
 {: .fs-8 .text-blue-200}
 
-
+Aguilar-Garavito, 2015
+Cardenas-Toro, J., Baptiste E, M. P., Ramírez, W., & Aguilar-Garavito, M. (2015). Herramienta de decisión para la gestión de áreas afectadas por invasiones biológicas en Colombia (Humboltd Instituto de Investigación de Recursos Biológicos Alexander von, Ed.). Bogotá D.C.
