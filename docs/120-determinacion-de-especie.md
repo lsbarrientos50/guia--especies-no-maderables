@@ -82,4 +82,5 @@ Las plantaciones no hacen parte de la presente guía, y se regulará por el Decr
 {: .fs-8 .text-blue-200}
 
 Aguilar-Garavito, 2015
+
 Cardenas-Toro, J., Baptiste E, M. P., Ramírez, W., & Aguilar-Garavito, M. (2015). Herramienta de decisión para la gestión de áreas afectadas por invasiones biológicas en Colombia (Humboltd Instituto de Investigación de Recursos Biológicos Alexander von, Ed.). Bogotá D.C.
