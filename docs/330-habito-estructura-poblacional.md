@@ -13,8 +13,17 @@ has_children: false
 
 ## Evaluación de la estructura poblacional actual
 {: .fs-6 .text-blue-200}
-Para determinar el impacto generado por el aprovechamiento, el cual, si se encuentra efectuado de forma intensa, este se ve reflejado en la distribución de clases de tamaño de la población, principalmente en la categoría a la cual se está efectuando el aprovechamiento, y en aquellas inmediatamente después; por ejemplo si se está aprovechando frutos, flores o semillas, el impacto se ve reflejado en los individuos de las primeras etapas etarias; por lo que en estos casos se hace necesario establecer parcelas de regeneración para monitorear las primeras clases de la población por medio de histogramas, especialmente para aquellos aprovechamientos que cosechan toda la planta (ver Tabla 37).
+Para determinar el impacto generado por el aprovechamiento, el cual, si se encuentra efectuado de forma intensa, este se ve reflejado en la distribución de clases de tamaño de la población, principalmente en la categoría a la cual se está efectuando el aprovechamiento, y en aquellas inmediatamente después; por ejemplo si se está aprovechando frutos, flores o semillas, el impacto se ve reflejado en los individuos de las primeras etapas etarias; por lo que en estos casos se hace necesario establecer parcelas de regeneración para monitorear las primeras clases de la población por medio de histogramas, especialmente para aquellos aprovechamientos que cosechan toda la planta (ver Tabla).
 En dado caso en el que se presente la siguiente situación (para especies con hábito arbóreo tipo I) (Figura 65, Figura 66, Figura 67), en donde al comparar la estructura poblacional inicial y las posteriores en los monitoreos siguientes es evidente que el aprovechamiento ha afectado las plántulas y ha afectado la población, por lo que se deben reevaluar y ajustar las tasas de aprovechamiento, se debe entonces realizar un proceso de cosecha experimental, la cual si es así se debe evaluar con varios porcentajes y frecuencias de cosecha y verificar como responde la población a estos porcentajes y frecuencias. Adicionalmente se debe verificar si efectivamente este cambio en la población se debe a la cosecha y no a otros factores como pastoreo, aprovechamiento ilegal por personas diferentes a los usuarios del permiso, factores climáticos, enfermedades, etc.
+
+| Tipo de parte aprovechada  | Información para seguimiento  | Información complementaria (sp amenazadas, aumento de la cosecha permisible, etc, aprovechamientos historicos)   |
+|:-------------|:---------------------|:---------|
+| Frutos, flores y semillas |  Producción de frutos a lo largo del año, Fenología reproductiva para calcular la producción,  Regeneración natural | Estudio de la regeneración natural en sitios con y sin cosecha | 
+| Ramas, tallos, cortezas (estructuras vegetativas que no comprometen la supervivencia del individuo) | Cosecha experimental y respuesta en la producción de
+biomasa o rebrotes nuevos y en la producción de flores y
+frutos. | -Estructura de la población en sitios cosechados y no cosechados.
+- Fenología reproductiva |
+
 
 ## Dinámica de la población
 {: .fs-6 .text-blue-200}
