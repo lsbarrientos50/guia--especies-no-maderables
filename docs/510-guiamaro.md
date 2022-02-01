@@ -7,7 +7,7 @@ description: "Decreto  PFNM"
 permalink: /estudios-de-caso/guiamaro/
 has_children: false
 ---
-# Estudios de caso Guiamaro
+# Estudios de caso: Guiamaro
 {: .fs-8 .text-blue-200}
 Esta guía trata específicamente de los Productos Forestales No Maderables-PFNM que
 aunque no se tiene un consenso en su definición de manera global (Ahenkan & Boon, 2011),
