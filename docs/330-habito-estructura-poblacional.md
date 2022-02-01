@@ -19,10 +19,7 @@ En dado caso en el que se presente la siguiente situación (para especies con h�
 | Tipo de parte aprovechada  | Información para seguimiento  | Información complementaria (sp amenazadas, aumento de la cosecha permisible, etc, aprovechamientos historicos)   |
 |:-------------|:---------------------|:---------|
 | Frutos, flores y semillas |  Producción de frutos a lo largo del año, Fenología reproductiva para calcular la producción,  Regeneración natural | Estudio de la regeneración natural en sitios con y sin cosecha | 
-| Ramas, tallos, cortezas (estructuras vegetativas que no comprometen la supervivencia del individuo) | Cosecha experimental y respuesta en la producción de
-biomasa o rebrotes nuevos y en la producción de flores y
-frutos. | -Estructura de la población en sitios cosechados y no cosechados.
-- Fenología reproductiva |
+| Ramas, tallos, cortezas (estructuras vegetativas que no comprometen la supervivencia del individuo) | Cosecha experimental y respuesta en la producción de biomasa o rebrotes nuevos y en la producción de flores y frutos. | -Estructura de la población en sitios cosechados y no cosechados. - Fenología reproductiva. |
 
 
 ## Dinámica de la población
