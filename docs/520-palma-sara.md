@@ -6,7 +6,7 @@ nav_order: 2
 description: "Decreto  PFNM"
 permalink: /estudios-de-caso/palma-sara/
 ---
-
+# Estudios de caso: Palma sara
 Esta guía trata específicamente de los Productos Forestales No Maderables-PFNM que
 aunque no se tiene un consenso en su definición de manera global (Ahenkan & Boon, 2011),
 la mayoría coincide que estos deben excluir la madera como producto y provenir de una
