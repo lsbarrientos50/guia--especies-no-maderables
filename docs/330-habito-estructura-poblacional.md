@@ -29,6 +29,8 @@ A partir de los datos colectados se puede realizar el análisis de la dinámica 
 ## Realizar ajustes al aprovechamiento
 {: .fs-6 .text-blue-200}
 Se deben realizar cambios al modelo del aprovechamiento si se presentan las siguientes situaciones:
-  -Si se observa que las densidades de plántulas y juveniles se ve disminuida, existe una alta probabilidad de la sostenibilidad del aprovechamiento se vea comprometida, por lo que se debe reducir la intensidad de la cosecha, y verificar en los siguientes monitoreos si las densidades de plántulas y juveniles se estabilizan, en dado caso que en los siguientes monitoreos continúe la afectación en las densidades de las clases iniciales, se debe seguir bajando la tasa de aprovechamiento o suspenderlo, según sea el caso
-  -Si se evidenciaron problemas específicos como pérdida de vigor, incremento de depredación de semillas, o herbívora se debe ajustar los procedimientos de cosecha
-Si se presentan impactos físicos como pisoteo o heridas se debe realizar un ajuste en el patrón y la frecuencia de aprovechamiento
+
+  -Si se observa que las densidades de plántulas y juveniles se ve disminuida, existe una alta probabilidad de la sostenibilidad del aprovechamiento se vea comprometida, por lo que se debe reducir la intensidad de la cosecha, y verificar en los siguientes monitoreos si las densidades de plántulas y juveniles se estabilizan, en dado caso que en los siguientes monitoreos continúe la afectación en las densidades de las clases iniciales, se debe seguir bajando la tasa de aprovechamiento o suspenderlo, según sea el caso.
+  
+  -Si se evidenciaron problemas específicos como pérdida de vigor, incremento de depredación de semillas, o herbívora se debe ajustar los procedimientos de cosecha.
+  Si se presentan impactos físicos como pisoteo o heridas se debe realizar un ajuste en el patrón y la frecuencia de aprovechamiento
