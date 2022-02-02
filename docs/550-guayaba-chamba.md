@@ -9,7 +9,7 @@ permalink: /estudios-de-caso/guayaba-chamba/
 
 
 
-# Estudios de caso: Guayaba chamba
+# Estudios de caso: Guayaba chamba _Campomanesia lineatifolia_
 {: .fs-8 .text-blue-200}
 ## En construcción
 {: .fs-6 .text-blue-200}
