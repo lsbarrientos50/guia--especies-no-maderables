@@ -32,6 +32,19 @@ En dado caso en el que se presente la siguiente situación (para especies con h�
 Cosecha experimental: Se refiere a verificar inicialmente si la tasa de aprovechamiento otorgado no afecta de manera negativa la permanencia del recurso y su sostenibilidad a través del tiempo; si es así se debe verificar con varios porcentajes y frecuencias de cosecha y como responde la población a estos porcentajes y frecuencias. Fuente: Tomado y ajustado de (Torres Romero & Casas Caro, 2014)
 {: .fs-3 .fw-300 }
 
+
+### Figura 1
+{: .fs-3 .text-blue-200 }
+Ejemplo estructura I (estado inicial) para especies arbóreas tipo I.
+
+### Figura 2
+{: .fs-3 .text-blue-200 }
+Ejemplo estructura poblacional II (monitoreo I) para especies arbóreas tipo I.
+ 
+### Figura 3
+{: .fs-3 .text-blue-200 }
+Ejemplo estructura poblacional III (monitoreo II) para especies arbóreas tipo I.
+
 ## Dinámica de la población
 {: .fs-6 .text-blue-200}
 Si bien el establecimiento de la dinámica de la población es un estudio muy largo (de 2 o 5 años) por medio de parcelas permanentes para efectos de un seguimiento y monitoreo de un permiso de aprovechamiento, se debe tener claro que todos los estudios deben apuntar a establecer la dinámica de poblaciones, la cual busca expresar los cambios que se dan en el tamaño o estructura de la población en un tiempo determinado, dado por varios factores, estos estudios se deben asegurar que los individuos no sean cosechados ni cortados, registrando datos relevantes cada 1 o 12 meses (según la forma de vida) como altura, DAP, N° de hojas, N° de tallos/planta, N° y estado de las estructuras reproductivas, etc., así como las características propias de las parcelas (fisiografía, tipo de vegetación, suelo, condiciones ambientales, etc.) así como los cambios en cada variable, comparados con los registros iniciales y la mortalidad y natalidad (Torres Romero & Casas Caro, 2014).
@@ -44,3 +57,9 @@ Se deben realizar cambios al modelo del aprovechamiento si se presentan las sigu
   
   -Si se evidenciaron problemas específicos como pérdida de vigor, incremento de depredación de semillas, o herbívora se debe ajustar los procedimientos de cosecha.
   Si se presentan impactos físicos como pisoteo o heridas se debe realizar un ajuste en el patrón y la frecuencia de aprovechamiento
+
+
+## Referencias
+{: .fs-6 .text-blue-200}
+
+Torres Romero, M. C., & Casas Caro, L. F. (2014). Protocolo de aprovechamiento para flora silvestre no maderable: metodología, estudios de caso y recomendaciones técnicas. In Fondo Biocomercio & Fundación Natura (Eds.), Protocolos de aprovechamiento para la flora silvestre no maderable: metodología, estudios de caso y recomendaciones técnicas. Bogotá, D. C.
