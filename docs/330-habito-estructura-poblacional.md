@@ -28,7 +28,7 @@ En dado caso en el que se presente la siguiente situación (para especies con h�
 | Toda la planta | -Producción de la parte cosechada (biomasa para herbáceas, volumen para tallos de palmas, crecimiento para otras partes). -Estructura y dinámica de la población -Protocolo para el cultivo (incluye la biología y la fenología reproductiva). | Impacto en otros niveles: variabilidad genética, comunidades y ecosistemas |
 
 ### Nota: 
-{: .fs-3 .fw-300 }
+{: .fs-3 .text-blue-200 }
 Cosecha experimental: Se refiere a verificar inicialmente si la tasa de aprovechamiento otorgado no afecta de manera negativa la permanencia del recurso y su sostenibilidad a través del tiempo; si es así se debe verificar con varios porcentajes y frecuencias de cosecha y como responde la población a estos porcentajes y frecuencias. Fuente: Tomado y ajustado de (Torres Romero & Casas Caro, 2014)
 {: .fs-3 .fw-300 }
 
