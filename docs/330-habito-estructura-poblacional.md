@@ -32,15 +32,17 @@ En dado caso en el que se presente la siguiente situación (para especies con h�
 Cosecha experimental: Se refiere a verificar inicialmente si la tasa de aprovechamiento otorgado no afecta de manera negativa la permanencia del recurso y su sostenibilidad a través del tiempo; si es así se debe verificar con varios porcentajes y frecuencias de cosecha y como responde la población a estos porcentajes y frecuencias. Fuente: Tomado y ajustado de (Torres Romero & Casas Caro, 2014)
 {: .fs-3 .fw-300 }
 
-
+![Figura1](https://raw.githubusercontent.com/lsbarrientos50/guia--especies-no-maderables/main/images/Fig1-330-habito-estructura-poblacional.png)
 ### Figura 1
 {: .fs-3 .text-blue-200 }
 Ejemplo estructura I (estado inicial) para especies arbóreas tipo I.
 
+![Figura2](https://raw.githubusercontent.com/lsbarrientos50/guia--especies-no-maderables/main/images/Fig2-330-habito-estructura-poblacional.png)
 ### Figura 2
 {: .fs-3 .text-blue-200 }
 Ejemplo estructura poblacional II (monitoreo I) para especies arbóreas tipo I.
- 
+
+![Figura3](https://raw.githubusercontent.com/lsbarrientos50/guia--especies-no-maderables/main/images/Fig3-330-habito-estructura-poblacional.png)
 ### Figura 3
 {: .fs-3 .text-blue-200 }
 Ejemplo estructura poblacional III (monitoreo II) para especies arbóreas tipo I.
