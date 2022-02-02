@@ -10,14 +10,26 @@ has_children: false
 
 # Tipos y como hacer inventarios (orientados a abundancias y estructura de población) 
 {: .fs-8 .text-blue-200}
-## Título 1
-{: .fs-6 .text-blue-200}
-[Lorem ipsum dolor sit amet](https://es.wikipedia.org/wiki/Productos_forestales_no_maderables), consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+## Sistema de monitoreo
+{: .fs-4 .text-blue-200}
+El sistema de monitoreo es indispensable para garantizar la conservación de la población objeto de aprovechamiento, por lo que es importante que el solicitante aporte una propuesta de monitoreo de los individuos o poblaciones objeto de aprovechamiento, este debe contar con las acciones correspondientes, un cronograma, los indicadores establecidos y las mediciones a realizar en cada toma de datos (mínimo cada 6 meses) (Revisar la Etapa IV: Seguimiento y control)
 
-## Título 2
-{: .fs-6 .text-blue-200}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+ * Para pequeños usuarios: se deben incluir indicadores (p ej. tasa de crecimiento, mortalidad y natalidad, entre otros) y cronograma de implementación.
+ * Para grandes usuarios: debe incluir monitoreo biológico de la especie (s) objeto de manejo de PFNM y sus poblaciones, Indicadores (por ejemplo, tasa de crecimiento, mortalidad, natalidad, etc.), registro de recolección de flores, frutos semillas, hojas, etc., que dependerá de la frecuencia que se adelante el manejo de PFNM, distribución geográfica y ubicación de la especie (s) objeto de aprovechamiento y sus poblaciones, cantidad o calidad del hábitat, demografía en donde se busca establecer la abundancia, la estructura de la población y los aspectos relacionados con la dinámica poblacional de la especie objeto de aprovechamiento, informe de actividades, cronograma de actividades de manejo de PFNM que contengan las actividades relacionadas con la implementación del sistema de monitoreo, visitas de seguimiento.
 
-## Título 3
+### Para pequeños usuarios
+{: .fs-4 .text-blue-200}
+
+Se debe tener en cuenta que para los pequeños usuarios el estudio técnico debe contener:
+* Medidas de manejo silvicultural: La autoridad ambiental establecerá estas medidas.
+*  Medidas de conservación de la especie (s) objeto de manejo de PFNM: Así como las poblaciones y ecosistemas, que garanticen su estructura poblacional y su diversidad genética y que contribuyan a su restauración o mantenimiento.
+*  Sistema de monitoreo: En el que se deben incluir indicadores (p ej. tasa de crecimiento,
+mortalidad y natalidad, entre otros) y cronograma de implementación.
+
+### Para grandes usuarios
 {: .fs-6 .text-blue-200}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+
+Solo para los grandes usuarios es importante que se proporcione acerca de las coberturas que se encuentran en el área en donde se realizará el aprovechamiento, importante verificar que se realice con una imagen satelital reciente en lo posible después del 2015, con una escala de interpretación detallada (1:10000-1:5000); y la identificación se debe hacer con la metodología Corine Land Cover adaptada para Colombia (Revisar Leyenda nacional De coberturas de la tierra Metodología Corine Land Cover adaptada para Colombia. Escala 1:100.000 [Sistema de Información Ambiental Territorial de la Amazonia Colombiana - SIAT-AC](http://siatac.co/c/document_library/get_file?uuid=a64629ad-2dbe-4e1e-a561-fc16b8037522&groupId=762).
+
+
+
