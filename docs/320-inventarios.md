@@ -28,7 +28,6 @@ mortalidad y natalidad, entre otros) y cronograma de implementación.
 ### Para grandes usuarios
 {: .fs-6 .text-blue-200}
 
-Solo para los grandes usuarios es importante que se proporcione acerca de las coberturas que se encuentran en el área en donde se realizará el aprovechamiento, importante verificar que se realice con una imagen satelital reciente en lo posible después del 2015, con una escala de interpretación detallada (1:10000-1:5000); y la identificación se debe hacer con la metodología Corine Land Cover adaptada para Colombia (Revisar Leyenda nacional De coberturas de la tierra Metodología Corine Land Cover adaptada para Colombia. Escala 1:100.000 [Sistema de Información Ambiental Territorial de la Amazonia Colombiana - SIAT-AC](http://siatac.co/c/document_library/get_file?uuid=a64629ad-2dbe-4e1e-a561-fc16b8037522&groupId=762).
-
+Solo para los grandes usuarios es importante que se proporcione acerca de las coberturas que se encuentran en el área en donde se realizará el aprovechamiento, importante verificar que se realice con una imagen satelital reciente en lo posible después del 2015, con una escala de interpretación detallada (1:10000-1:5000); y la identificación se debe hacer con la metodología Corine Land Cover adaptada para Colombia (Revisar Leyenda nacional De coberturas de la tierra Metodología Corine Land Cover adaptada para Colombia. Escala 1:100.000.
 
 
