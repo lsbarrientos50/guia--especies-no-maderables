@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Inventarios
+title: Sistema de Monitoreo
 parent: Guía protocolos
 nav_order: 2
 description: "Tipos y como hacer inventarios"
@@ -8,10 +8,9 @@ permalink: /guia-protocolos/inventarios/
 has_children: false
 ---
 
-# Tipos y como hacer inventarios (orientados a abundancias y estructura de población) 
+
+# Sistema de monitoreo
 {: .fs-8 .text-blue-200}
-## Sistema de monitoreo
-{: .fs-4 .text-blue-200}
 El sistema de monitoreo es indispensable para garantizar la conservación de la población objeto de aprovechamiento, por lo que es importante que el solicitante aporte una propuesta de monitoreo de los individuos o poblaciones objeto de aprovechamiento, este debe contar con las acciones correspondientes, un cronograma, los indicadores establecidos y las mediciones a realizar en cada toma de datos (mínimo cada 6 meses) (Revisar la Etapa IV: Seguimiento y control)
 
  * Para pequeños usuarios: se deben incluir indicadores (p ej. tasa de crecimiento, mortalidad y natalidad, entre otros) y cronograma de implementación.
