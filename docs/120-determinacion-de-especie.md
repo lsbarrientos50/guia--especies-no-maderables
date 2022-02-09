@@ -5,7 +5,7 @@ parent: Aspectos generales
 nav_order: 2
 description: "Determinación de la especie. Fuentes de información en linea (SIB, catalogo de nombres comunes, herbarios. Ejercicio de determinación de especie a partir de nombre común
 "
-permalink: /aspectos-generales/determinacion-especies/
+permalink: #/aspectos-generales/determinacion-especies/
 has_children: false
 ---
 
