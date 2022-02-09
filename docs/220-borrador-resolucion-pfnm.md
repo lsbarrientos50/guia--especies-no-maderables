@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Borrador resolución PFNM
+title: Resolución PFNM
 parent: Normativa
 nav_order: 1
 description: "Borrador PFNM"
@@ -9,7 +9,7 @@ has_children: false
 ---
 
 
-# Borrador Resolución PFNM
+# Resolución PFNM
 {: .fs-8 .text-blue-200}
 “Es deber del Estado y las personas
 proteger las riquezas culturales y naturales de la región”, el Estado a través del Ministerio del
