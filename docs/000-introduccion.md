@@ -33,18 +33,22 @@ proyecto tiene como fin contribuir a la implementación de la normativa asociada
 de la flora silvestre y de los productos no maderables.
 
 ## Enfoque del curso
+{: .fs-6 .text-blue-200}
 
 El propósito es encontrar la mejor manera para que los productos del proyecto “Promoviendo los Productos Forestales no Maderables en Colombia”...
 
 ## Metodología
+{: .fs-6 .text-blue-200}
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
 
 ## Instructores
+{: .fs-6 .text-blue-200}
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
 
 ## Aliados
+{: .fs-6 .text-blue-200}
 
 Actualmente el Instituto Alexander von Humboldt se encuentra ejecutando el proyecto
 “Unleashing NTFPs”, en colaboración con el Ministerio de Ambiente y Desarrollo Sostenible y la
