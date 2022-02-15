@@ -18,6 +18,7 @@ Dentro de la Familia Lecythidaceae, se encuentra una de las especies más emblem
 
 
 ![Figura1.](https://raw.githubusercontent.com/lsbarrientos50/guia--especies-no-maderables/main/images/Figura1OllaDeMono.png)
+
 Colecta de frutos (pixidios) para monitorear su productividad, con la comunidad de Caimanes, Bolivar.
 
 
@@ -28,14 +29,17 @@ Existe una relación directa significativa entre el tamaño de los árboles (DAP
 El aprovechamiento de las nueces de _L. minor_ se hace mediante la recolección de sus semillas del suelo (como si los cosechadores fueran consumidores secundarios). Esto hace que sea un modelo de aprovechamiento de PFNM bastante viable. El mismo modelo de aprovechamiento indirecto del recurso, garantiza que no sea posible cosechar el 100% de la oferta del árbol, ya que los consumidores primarios y presuntos dispersores (e.g., murciélagos), van a haber consumido parte de las semillas en las copas de los árboles, antes de que caigan al suelo. Las principales amenazas para esta especie son la tala y la pérdida del hábitat; y debido a la disminución de sus poblaciones la especie debe ser propagada y monitoreada en las zonas de aprovechamiento, estimulando la conservación del BST. 
 
 ![Figura2.](https://raw.githubusercontent.com/lsbarrientos50/guia--especies-no-maderables/main/images/Figura2OllaDeMono.png)
+
 Fruto olla de mono
 
 ![Figura3.](https://raw.githubusercontent.com/lsbarrientos50/guia--especies-no-maderables/main/images/Figura3OllaDeMono.png)
+
 Semilla de olla de mono
 
 Los resultados de esta investigación sirven como base para el entendimiento de las dinámicas poblacionales de _L. minor_, al igual que para planear, monitorear y ejecutar el aprovechamiento sostenible de las semillas (nueces) de esta especie, por parte de las comunidades y entidades interesadas. Se espera que este esfuerzo contribuya a la permanencia y recuperación de las poblaciones de _L. minor_ en el Caribe Colombiano, al igual que a mejorar la calidad de vida de los pobladores ancestrales que comparten y habitan este territorio.
 
 ![Figura4.](https://raw.githubusercontent.com/lsbarrientos50/guia--especies-no-maderables/main/images/Figura4OllaDeMono.png)
+
 Aceite extraído de las semillas (fuente https://www.protecnicaing.com/magdalena-river-nuts/)
 
 
