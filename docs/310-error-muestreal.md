@@ -8,8 +8,9 @@ permalink: /guia-protocolos/error-muestreal/
 has_children: false
 ---
 
-# Guía protocolos
+# Error muestreal
 {: .fs-8 .text-blue-200}
+
 ## En construcción
 {: .fs-6 .text-blue-200}
 
