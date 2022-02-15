@@ -1,12 +1,12 @@
----
-layout: default
-title: Analisis de datos
-parent: Guía protocolos
-nav_order: 5
-description: "Análisis de datos abundancias y estructura de poblaciones"
-permalink: /guia-protocolos/analisis-de-datos/
-has_children: false
----
+#---
+#layout: default
+#title: Analisis de datos
+#parent: Guía protocolos
+#nav_order: 5
+#description: "Análisis de datos abundancias y estructura de poblaciones"
+#permalink: /guia-protocolos/analisis-de-datos/
+#has_children: false
+#---
 
 # Análisis de datos abundancias y estructura de poblaciones
 {: .fs-8 .text-blue-200}
