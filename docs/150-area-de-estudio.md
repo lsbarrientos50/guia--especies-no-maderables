@@ -7,6 +7,10 @@ description: "Ubicación del área de estudio (celular, GPS)"
 permalink: /aspectos-generales/area-de-estudio/
 has_children: false
 ---
+
+Area de estudio
+{: .fs-8 .text-blue-200}
+
 La diversidad ecosistémica existente en el país sigue siendo cada vez más ampliamente condicionada por el impacto de las actividades humanas el impacto histórico ya milenario de las actividades humanas, tanto en términos absolutos como en la ubicación y los patrones espaciales resultantes (Etter, 1993).
 Desde el año 2007 los Institutos de Investigación del SINA, PNN, y el Ministerio de Ambiente e IGAC publicaron el primer mapa de ecosistemas continentales, costeros y marinos con el cual contó el país, a escala 1:500.000. A partir del 2011, estas mismas instituciones aunaron esfuerzos para producir el primer mapa de ecosistemas continentales, costeros y marinos de Colombia a escala 1:100.000 para Colombia. Estos mapas abordan el concepto de ecosistema de conformidad con lo adoptada en la Convención de Diversidad Biológica CDB, entendido este como “Complejo dinámico de comunidades vegetales, animales y de microorganismos en su medio no viviente, que interactúan como una unidad funcional materializada en un territorio, la cual se caracteriza por presentar una homogeneidad, en sus condiciones biofísicas y antrópicas”.
 Hoy se cuenta con unidades ecosistémicas, a través de una estructura jerárquica que va desde los Grandes Biomas, los Bioma, hasta los Ecosistemas. Para Colombia se han definido 91 tipos de ecosistemas generales, distribuidos de la siguiente manera: Marinos 7 naturales, Costeros continentales e insulares: 13 naturales y 2 transformado, Terrestres continentales e insulares: 25 naturales y 17 transformados, Acuáticos 25 naturales y 2 transformado. Esta información está disponible en el portal del Sistema de información Ambiental de Colombia [SIAC](http://www.siac.gov.co/).
