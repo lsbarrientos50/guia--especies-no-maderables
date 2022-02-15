@@ -30,3 +30,6 @@ La densidad poblacional de _Brosimum alicastrum_ encontrada para algunas localid
 ![Figura 3. Recolección de frutos de guáimaro](https://raw.githubusercontent.com/lsbarrientos50/guia--especies-no-maderables/main/images/Guaimaro3.png) 
 ![Figura 4. Recolección de frutos de guáimaro](https://raw.githubusercontent.com/lsbarrientos50/guia--especies-no-maderables/main/images/Guaimaro4.jpg)
 Recolección de frutos de guáimaro
+
+
+[PDF descargable Protocolo para el manejo sostenible de Guáimaro (_Brosimum alicastrum_ Sw.) para el aprovechamiento de sus frutos y semillas en la Región Caribe de Colombia](https://github.com/lsbarrientos50/guia-especies-no-maderables/blob/main/anexos/Presentación_Guáimaro.pdf)
