@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Usos de suelo
-# parent: Aspectos generales
-# nav_order: 1
+#title: Usos de suelo
+#parent: Aspectos generales
+#nav_order: 1
 description: "Instrumentos de zonificación uso del suelo (POMCA, POT, PMA, POF, etc.). Comprobar ubicación uso del suelo"
 permalink: /aspectos-generales/uso-de-suelo/
 has_children: false
