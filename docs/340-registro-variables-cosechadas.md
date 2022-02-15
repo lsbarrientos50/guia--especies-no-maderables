@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Registro para cosechas
+title: Características ecológicas de las especies cosechadas
 parent: Guía protocolos
 nav_order: 4
 description: "Registro variables partes cosechadas (frutos, hojas, raices)"
@@ -9,7 +9,7 @@ has_children: false
 ---
 
 
-# Registro variables partes cosechadas (frutos, hojas, raices)
+# Características ecológicas de las especies cosechadas
 {: .fs-8 .text-blue-200}
 
 ## Rasgos de historia de vida de la especie y parte de la planta cosechada
