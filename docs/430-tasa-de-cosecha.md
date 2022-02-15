@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Tasa de cosecha
+title: Porcentaje de cosecha
 parent: Guía solicitudes
 nav_order: 3
 description: "Guia evaluación de solicitudes Proceso uso de guía"
@@ -11,7 +11,7 @@ has_children: false
 
 
 
-# Definición de la tasa de cosecha/tiempo
+# Definición de los porcentajes de cosecha
 {: .fs-8 .text-blue-200}
 
 ## Título 1
