@@ -48,3 +48,5 @@ En los siguientes links se puede consultar todos los datos crudos obtenidos en l
 
 [Link 2 _Lecythis minor_](http://ipt.biodiversidad.co/iavh/resource.do?r=rrbb_lecythisminor_garcero_2020)
 
+[PDF descargable Protocolo para el manejo sostenible de Olla de mono (_Lecythis minor_ Jacq.) para el aprovechamiento de sus semillas en la Región Caribe de Colombia ](https://github.com/lsbarrientos50/guia-especies-no-maderables/blob/main/anexos/Presentación Olla de mono.pdf)
+
