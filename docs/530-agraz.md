@@ -30,3 +30,5 @@ Identificación de áreas de distribución natural de agraz en el municipio de R
 
 ![Figura 3. Cosecha, pesado y selección de frutos de agraz en el municipio de Ráquira, Boyacá.](https://raw.githubusercontent.com/lsbarrientos50/guia--especies-no-maderables/main/images/Figura3Agraz.png)
 Cosecha, pesado y selección de frutos de agraz en el municipio de Ráquira, Boyacá.
+
+[PDF descargable Protocolo para el manejo sostenible de agraz (_Vaccinium meridionale_ sw.) Para el aprovechamiento de sus frutos en bosques altoandinos de Ráquira, Boyacá](https://github.com/lsbarrientos50/guia-especies-no-maderables/blob/main/anexos/PresentacionAgraz_2021.pdf)
